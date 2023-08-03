@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\bin\Debug\rock paper scissors new.exe.config
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\bin\Debug\rock paper scissors new.exe
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\bin\Debug\rock paper scissors new.pdb
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\obj\Debug\rock paper scissors new.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\obj\Debug\rock paper scissors new.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\obj\Debug\rock paper scissors new.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\obj\Debug\rock paper scissors new.exe
+C:\Users\User\Desktop\coding\visual studio projects\rock paper scissors new\rock paper scissors new\obj\Debug\rock paper scissors new.pdb
